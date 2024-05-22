@@ -1,0 +1,91 @@
+{
+    "wod": {
+        "enable-logging": false,
+        "enable-redirection-to-converter": true,
+        "enable-redirection-to-webp-realizer": true,
+        "base-htaccess-on-these-capability-tests": {
+            "passThroughHeaderWorking": false,
+            "passThroughEnvWorking": true,
+            "modHeaderWorking": true,
+            "canRunTestScriptInWOD": true,
+            "canRunTestScriptInWOD2": true
+        },
+        "destination-extension": "append",
+        "destination-folder": "separate",
+        "forward-query-string": true,
+        "image-roots": [
+            {
+                "id": "uploads",
+                "rel-path": "wp-content/uploads",
+                "url": "https://blog.telemedicina33doctor.com.br/wp-content/uploads"
+            },
+            {
+                "id": "themes",
+                "rel-path": "wp-content/themes",
+                "url": "https://blog.telemedicina33doctor.com.br/wp-content/themes"
+            },
+            {
+                "id": "plugins",
+                "rel-path": "wp-content/plugins",
+                "url": "https://blog.telemedicina33doctor.com.br/wp-content/plugins"
+            },
+            {
+                "id": "wp-content",
+                "rel-path": "wp-content",
+                "url": "https://blog.telemedicina33doctor.com.br/wp-content"
+            },
+            {
+                "id": "index",
+                "rel-path": ".",
+                "url": "https://blog.telemedicina33doctor.com.br"
+            }
+        ],
+        "success-response": "converted"
+    },
+    "webp-convert": {
+        "serve-image": {
+            "headers": {
+                "cache-control": false,
+                "content-length": true,
+                "content-type": true,
+                "expires": false,
+                "last-modified": true
+            }
+        },
+        "fail": "original",
+        "convert": {
+            "converters": [
+                {
+                    "converter": "gd",
+                    "options": {
+                        "skip-pngs": false
+                    }
+                },
+                {
+                    "converter": "graphicsmagick",
+                    "options": {
+                        "use-nice": true
+                    }
+                },
+                {
+                    "converter": "imagick"
+                }
+            ],
+            "jpeg": {
+                "encoding": "auto",
+                "quality": "auto",
+                "default-quality": 80,
+                "max-quality": 80,
+                "near-lossless": 60
+            },
+            "png": {
+                "encoding": "auto",
+                "quality": 85,
+                "near-lossless": 60,
+                "alpha-quality": 80
+            },
+            "metadata": "none",
+            "log-call-arguments": true
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.elementor-492 .elementor-element.elementor-element-3b176b0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:20px 0px;--background-transition:0.3s;--padding-block-start:80px;--padding-block-end:0px;--padding-inline-start:40px;--padding-inline-end:40px;}.elementor-492 .elementor-element.elementor-element-eda31f4{text-align:center;}.elementor-492 .elementor-element.elementor-element-eda31f4 .elementor-heading-title{color:#DD1824;font-size:19px;font-weight:800;}.elementor-492 .elementor-element.elementor-element-eda31f4 > .elementor-widget-container{padding:0px 0px 18px 0px;}.elementor-492 .elementor-element.elementor-element-40c3a15 .jet-search-suggestions__form{border-style:solid;border-width:0px 0px 0px 0px;border-radius:50px 50px 50px 50px;}.elementor-492 .elementor-element.elementor-element-40c3a15 .jet-search-suggestions__field{color:#474D52;background-color:#FFFFFF;border-color:#DD1824;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.02);padding:18px 18px 18px 18px;border-width:0px 0px 0px 0px;border-radius:50px 50px 50px 50px;}.elementor-492 .elementor-element.elementor-element-40c3a15 .jet-search-suggestions__form--focus .jet-search-suggestions__field{background-color:#FFFFFF;}.elementor-492 .elementor-element.elementor-element-40c3a15 .jet-search-suggestions__submit-label{font-family:"Inter", Sans-serif;font-size:16px;font-weight:800;}.elementor-492 .elementor-element.elementor-element-40c3a15 .jet-search-suggestions__submit{background-color:#DD1824;padding:19px 19px 19px 19px;border-radius:50px 50px 50px 50px;}.elementor-492 .elementor-element.elementor-element-40c3a15{width:100%;max-width:100%;}.elementor-492 .elementor-element.elementor-element-40c3a15.elementor-element{--align-self:center;}.elementor-492 .elementor-element.elementor-element-77d61eb .elementor-nav-menu .elementor-item{font-weight:500;}.elementor-492 .elementor-element.elementor-element-77d61eb .elementor-nav-menu--main .elementor-item{color:#DD1824;fill:#DD1824;}.elementor-492 .elementor-element.elementor-element-77d61eb > .elementor-widget-container{margin:0px 0px 0px -21px;padding:20px 0px 0px 0px;}.elementor-492 .elementor-element.elementor-element-6c3d258 .elementor-button{background-color:#DD1824;border-radius:10px 10px 10px 10px;padding:20px 20px 20px 20px;}/* Start custom CSS for jet-search-suggestions, class: .elementor-element-40c3a15 */.jet-search-suggestions__field{outline: none;
+    border-color: #ddd;
+}
+.jet-search-suggestions__focus-results-holder .jet-search-suggestions__focus-area-item .jet-search-suggestions__focus-area-item-title{
+	display: none !important;
+}
+
+.elementor-13 .elementor-element.elementor-element-23720eb .jet-search-suggestions__submit {outline: none;
+    border-color: #ddd;}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-6c3d258 *//* Animação de flutuação ao passar o mouse */
+.elementor-button-wrapper {
+    transition: transform 0.3s ease-in-out;
+}
+
+.elementor-button-wrapper:hover {
+    transform: translateY(-5px); /* Ajuste a quantidade de flutuação conforme necessário */
+}/* End custom CSS */

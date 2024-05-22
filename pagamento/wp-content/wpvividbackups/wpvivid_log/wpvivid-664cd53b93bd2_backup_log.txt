@@ -1,0 +1,214 @@
+Log created: 2024-05-21 14:09:15
+Type: backup
+[2024-05-21 14:09:15][notice]Start backing up.
+[2024-05-21 14:09:15][notice]server info fcgi:Off max execution time: 300 wp version:6.4.4 php version:8.1.27 db version:10.11.7 php ini:safe_mode: memory_limit:256M memory_get_usage:36,07 MB memory_get_peak_usage:36,39 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-05-21 14:09:15][notice]LiteSpeed Server.
+[2024-05-21 14:09:15][notice]Add LiteSpeed Rule
+[2024-05-21 14:09:15][notice]Prepare to backup backup_db files.
+[2024-05-21 14:09:15][notice]Start exporting database.
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_energyplus_daily
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_category_lookup
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_reserved_stock
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_e_events
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_energyplus_events
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_links
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_term_relationships
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_product_download_directories
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_rate_limits
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_webhooks
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_log
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_order_items
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_woocommerce_sessions
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_commentmeta
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_e_submissions_values
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_term_taxonomy
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_termmeta
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_terms
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_customer_lookup
+[2024-05-21 14:09:15][notice]Preparing to dump table wp_wc_download_log
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_order_operational_data
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_api_keys
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_energyplus_requests
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_users
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_admin_notes
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_order_stats
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_admin_note_actions
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_order_addresses
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_order_product_lookup
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_comments
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_e_submissions_actions_log
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_orders
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_usermeta
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_e_submissions
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_wc_orders_meta
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_postmeta
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_posts
+[2024-05-21 14:09:16][notice]Preparing to dump table wp_options
+[2024-05-21 14:09:16][notice]Exporting database finished.
+[2024-05-21 14:09:16][notice]Start compressing database
+[2024-05-21 14:09:16][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_db.sql
+[2024-05-21 14:09:16][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_db.part001.zip, filesize: 288,98 KB
+[2024-05-21 14:09:16][notice]Compressing database completed
+[2024-05-21 14:09:16][notice]Backing up backup_db completed.
+[2024-05-21 14:09:16][notice]Prepare to backup backup_themes files.
+[2024-05-21 14:09:16][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_themes.part001.zip index:500
+[2024-05-21 14:09:16][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_themes.part001.zip success. index:500 file size:215,95 KB
+[2024-05-21 14:09:16][notice]Backing up backup_themes completed.
+[2024-05-21 14:09:16][notice]Prepare to backup backup_plugin files.
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:500
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:500 file size:1,01 MB
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:1000
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:1000 file size:2,37 MB
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:1500
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:1500 file size:3,46 MB
+[2024-05-21 14:09:17][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:2000
+[2024-05-21 14:09:18][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:2000 file size:4,26 MB
+[2024-05-21 14:09:18][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:2500
+[2024-05-21 14:09:18][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:2500 file size:15,16 MB
+[2024-05-21 14:09:18][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:3000
+[2024-05-21 14:09:19][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:3000 file size:17,99 MB
+[2024-05-21 14:09:19][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:3500
+[2024-05-21 14:09:19][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:3500 file size:18,81 MB
+[2024-05-21 14:09:19][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:4000
+[2024-05-21 14:09:19][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:4000 file size:19,99 MB
+[2024-05-21 14:09:19][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:4500
+[2024-05-21 14:09:21][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:4500 file size:24,27 MB
+[2024-05-21 14:09:21][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:5000
+[2024-05-21 14:09:21][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:5000 file size:26,80 MB
+[2024-05-21 14:09:21][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:5500
+[2024-05-21 14:09:22][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:5500 file size:30,27 MB
+[2024-05-21 14:09:22][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:6000
+[2024-05-21 14:09:23][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:6000 file size:31,29 MB
+[2024-05-21 14:09:23][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:6500
+[2024-05-21 14:09:23][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:6500 file size:32,24 MB
+[2024-05-21 14:09:23][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:7000
+[2024-05-21 14:09:24][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:7000 file size:37,01 MB
+[2024-05-21 14:09:24][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:7500
+[2024-05-21 14:09:26][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:7500 file size:41,49 MB
+[2024-05-21 14:09:26][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip index:8000
+[2024-05-21 14:09:26][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.part001.zip success. index:8000 file size:41,54 MB
+[2024-05-21 14:09:26][notice]Backing up backup_plugin completed.
+[2024-05-21 14:09:26][notice]Prepare to backup backup_uploads files.
+[2024-05-21 14:09:26][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_uploads.part001.zip index:500
+[2024-05-21 14:09:26][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_uploads.part001.zip success. index:500 file size:399,73 KB
+[2024-05-21 14:09:26][notice]Backing up backup_uploads completed.
+[2024-05-21 14:09:26][notice]Prepare to backup backup_content files.
+[2024-05-21 14:09:26][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_content.part001.zip index:500
+[2024-05-21 14:09:27][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_content.part001.zip success. index:500 file size:2,31 MB
+[2024-05-21 14:09:27][notice]Backing up backup_content completed.
+[2024-05-21 14:09:27][notice]Prepare to backup backup_core files.
+[2024-05-21 14:09:27][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip index:500
+[2024-05-21 14:09:29][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip success. index:500 file size:6,97 MB
+[2024-05-21 14:09:29][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip index:1000
+[2024-05-21 14:09:30][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip success. index:1000 file size:9,17 MB
+[2024-05-21 14:09:30][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip index:1500
+[2024-05-21 14:09:30][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip success. index:1500 file size:9,51 MB
+[2024-05-21 14:09:30][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip index:2000
+[2024-05-21 14:09:30][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip success. index:2000 file size:11,02 MB
+[2024-05-21 14:09:30][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip index:2500
+[2024-05-21 14:09:31][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip success. index:2500 file size:13,28 MB
+[2024-05-21 14:09:31][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip index:3000
+[2024-05-21 14:09:31][notice]Compressing zip file:pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.part001.zip success. index:3000 file size:13,66 MB
+[2024-05-21 14:09:31][notice]Backing up backup_core completed.
+[2024-05-21 14:09:31][notice]Prepare to backup backup_merge files.
+[2024-05-21 14:09:31][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_db.zip
+[2024-05-21 14:09:31][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.part001.zip, filesize: 282,54 KB
+[2024-05-21 14:09:31][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_themes.zip
+[2024-05-21 14:09:31][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.part001.zip, filesize: 484,90 KB
+[2024-05-21 14:09:31][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_plugin.zip
+[2024-05-21 14:09:32][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.part001.zip, filesize: 40,46 MB
+[2024-05-21 14:09:32][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_uploads.zip
+[2024-05-21 14:09:33][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.part001.zip, filesize: 40,85 MB
+[2024-05-21 14:09:33][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_content.zip
+[2024-05-21 14:09:33][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.part001.zip, filesize: 43,12 MB
+[2024-05-21 14:09:33][notice]Prepare to zip file. file: pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_core.zip
+[2024-05-21 14:09:33][notice]Adding zip files completed.pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.part001.zip, filesize: 56,41 MB
+[2024-05-21 14:09:34][notice]Backing up backup_merge completed.
+[2024-05-21 14:09:34][notice]files: ["\/home\/u937303877\/domains\/telemedicina33doctor.com.br\/public_html\/pagamento\/wp-content\/wpvividbackups\/pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip"]
+[2024-05-21 14:09:34][notice]Connect site 
+[2024-05-21 14:09:34][notice]Start uploading pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip
+[2024-05-21 14:09:34][notice]{"result":"success","file_status":{"status":"start"}}
+[2024-05-21 14:09:34][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 0
+[2024-05-21 14:09:34][notice]finished send chunk
+[2024-05-21 14:09:34][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 2097152
+[2024-05-21 14:09:35][notice]finished send chunk
+[2024-05-21 14:09:35][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 4194304
+[2024-05-21 14:09:35][notice]finished send chunk
+[2024-05-21 14:09:35][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 6291456
+[2024-05-21 14:09:35][notice]finished send chunk
+[2024-05-21 14:09:35][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 8388608
+[2024-05-21 14:09:35][notice]finished send chunk
+[2024-05-21 14:09:35][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 10485760
+[2024-05-21 14:09:36][notice]finished send chunk
+[2024-05-21 14:09:36][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 12582912
+[2024-05-21 14:09:36][notice]finished send chunk
+[2024-05-21 14:09:36][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 14680064
+[2024-05-21 14:09:36][notice]finished send chunk
+[2024-05-21 14:09:36][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 16777216
+[2024-05-21 14:09:37][notice]finished send chunk
+[2024-05-21 14:09:37][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 18874368
+[2024-05-21 14:09:37][notice]finished send chunk
+[2024-05-21 14:09:38][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 20971520
+[2024-05-21 14:09:38][notice]finished send chunk
+[2024-05-21 14:09:38][notice]Uploading pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip Total size: 56,41 MB Uploaded: 22,00 MB speed:5767.17kb/s
+[2024-05-21 14:09:38][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 23068672
+[2024-05-21 14:09:38][notice]finished send chunk
+[2024-05-21 14:09:38][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 25165824
+[2024-05-21 14:09:38][notice]finished send chunk
+[2024-05-21 14:09:38][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 27262976
+[2024-05-21 14:09:39][notice]finished send chunk
+[2024-05-21 14:09:39][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 29360128
+[2024-05-21 14:09:39][notice]finished send chunk
+[2024-05-21 14:09:39][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 31457280
+[2024-05-21 14:09:39][notice]finished send chunk
+[2024-05-21 14:09:39][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 33554432
+[2024-05-21 14:09:40][notice]finished send chunk
+[2024-05-21 14:09:40][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 35651584
+[2024-05-21 14:09:40][notice]finished send chunk
+[2024-05-21 14:09:40][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 37748736
+[2024-05-21 14:09:40][notice]finished send chunk
+[2024-05-21 14:09:40][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 39845888
+[2024-05-21 14:09:41][notice]finished send chunk
+[2024-05-21 14:09:41][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 41943040
+[2024-05-21 14:09:41][notice]finished send chunk
+[2024-05-21 14:09:41][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 44040192
+[2024-05-21 14:09:41][notice]finished send chunk
+[2024-05-21 14:09:41][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 46137344
+[2024-05-21 14:09:41][notice]finished send chunk
+[2024-05-21 14:09:41][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 48234496
+[2024-05-21 14:09:42][notice]finished send chunk
+[2024-05-21 14:09:42][notice]Uploading pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip Total size: 56,41 MB Uploaded: 48,00 MB speed:6815.74kb/s
+[2024-05-21 14:09:42][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 50331648
+[2024-05-21 14:09:42][notice]finished send chunk
+[2024-05-21 14:09:42][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 52428800
+[2024-05-21 14:09:42][notice]finished send chunk
+[2024-05-21 14:09:42][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 54525952
+[2024-05-21 14:09:43][notice]finished send chunk
+[2024-05-21 14:09:43][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 56623104
+[2024-05-21 14:09:43][notice]finished send chunk
+[2024-05-21 14:09:43][notice]send chunk pagamento.telemedicina33doctor.com.br_wpvivid-664cd53b93bd2_2024-05-21-14-09_backup_all.zip offset 58720256
+[2024-05-21 14:09:43][notice]finished send chunk
+[2024-05-21 14:09:43][notice]upload finished
+[2024-05-21 14:09:43][notice]Finish upload to send_to_site
+[2024-05-21 14:09:43][notice]Upload finished. Delete task wpvivid-664cd53b93bd2
+[2024-05-21 14:09:43][notice]LiteSpeed Server.
+[2024-05-21 14:09:43][notice]Clear LiteSpeed Rule
